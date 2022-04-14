@@ -1,0 +1,30 @@
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"warn","message":"This is how WARN looks like"}
+{"level":"info","message":"This how INFO looks"}
+{"level":"error","message":"Some weird but silly error that will make your life hell."}
+{"level":"error","message":"Error Log"}
+{"level":"warn","message":" WARN Log"}
+{"level":"info","message":"INFO Log"}
+{"level":"error","message":"Error Log"}
+{"level":"warn","message":" WARN Log"}
+{"level":"info","message":"INFO Log"}
+{"level":"error","message":"Error Log"}
+{"level":"warn","message":" WARN Log"}
+{"level":"info","message":"INFO Log"}
